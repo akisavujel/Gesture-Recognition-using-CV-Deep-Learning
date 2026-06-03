@@ -99,7 +99,7 @@ Dense (3, softmax)  →  [paper, rock, scissors]
 ## 🚀 Getting Started
 
 ### 1. Open in Google Colab
-Upload `akisa.ipynb` to [Google Colab](https://colab.research.google.com/drive/1L_BAzu8sKM1P93Fm7XwIy7DgiE8K2D1N#scrollTo=L6qDb-MAw_sB)
+[Google Colab](https://colab.research.google.com/drive/1qhmoKmPKTotoez10Pque9Hp9Scid_v4y)
 
 ### 2. Install dependencies
 ```python
